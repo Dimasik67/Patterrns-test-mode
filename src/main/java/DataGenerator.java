@@ -1,4 +1,4 @@
-package data;
+package java;
 
 import com.github.javafaker.Faker;
 import io.restassured.builder.RequestSpecBuilder;
